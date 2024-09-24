@@ -1,5 +1,5 @@
 <h1>My Deep Manga</h1>
-<h4>O Projeto esta na brach master</h4>
+<h4>O Projeto esta na branch master</h4>
 <p><strong>My Deep Manga</strong> é um aplicativo Flutter que permite aos amantes de mangás explorar, pesquisar e gerenciar suas séries favoritas de maneira intuitiva. Utilizando a API Jikan, o aplicativo oferece uma interface moderna e agradável, onde os usuários podem descobrir novos títulos, visualizar detalhes, e salvar suas séries preferidas em uma lista pessoal.</p>
 
 <h2>Recursos</h2>
