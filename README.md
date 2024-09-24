@@ -14,6 +14,7 @@
 <ul>
     <li><strong>Flutter</strong>: Um framework de desenvolvimento de aplicativos móveis que permite criar interfaces nativas.</li>
     <li><strong>API Jikan</strong>: Um wrapper para a API do MyAnimeList, que fornece informações sobre animes e mangás.</li>
+    <li>Shared Preferences é ideal para armazenar dados simples e configurações do usuário de forma rápida e fácil, enquanto SQLite é mais apropriado para dados complexos, estruturados e operações de manipulação avançadas.</li>
 </ul>
 
 <h2>Como Usar</h2>
