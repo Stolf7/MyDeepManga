@@ -17,10 +17,9 @@
     <li>Shared Preferences é ideal para armazenar dados simples e configurações do usuário de forma rápida e fácil, enquanto SQLite é mais apropriado para dados complexos, estruturados e operações de manipulação avançadas.</li>
 </ul>
 
-<h2>Como Usar</h2>
+<h2>Membros</h2>
 <ol>
-    <li>Clone o repositório.</li>
-    <li>Execute <code>flutter pub get</code> para instalar as dependências.</li>
-    <li>Inicie o aplicativo com <code>flutter run</code>.</li>
+    <li>Matheus Oliveira Stolf</li>
+    <li>Juliano Alessandro</li>
 </ol>
 
